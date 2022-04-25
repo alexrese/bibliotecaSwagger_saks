@@ -1,0 +1,7 @@
+br\com\saks\biblioteca\model\Usuario.class
+br\com\saks\biblioteca\model\Livro.class
+br\com\saks\biblioteca\BibliotecaApplication.class
+br\com\saks\biblioteca\controller\LivroController.class
+br\com\saks\biblioteca\controller\UsuarioController.class
+br\com\saks\biblioteca\repository\LivroRepository.class
+br\com\saks\biblioteca\repository\UsuarioRepository.class
